@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **semihdurgun/semihdurgun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hey 👋 This is Semih
+
+- 💻 I'm a software engineer
+- 🔭 I’m currently working on data analysis and machine learning algorithms
+- 📫 You can reach me by email at [semihdurgun55@gmail.com](mailto:semihdurgun55@gmail.com)
+- 💼 You can visit my [LinkedIn](https://www.linkedin.com/in/semihdurgun/) for more info about my professional career
+- 🌱 I'm new graduated 
+- 💬 "Code wins arguments"
